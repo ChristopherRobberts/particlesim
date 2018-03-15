@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/common.cpp
+common.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+string.h
+-
+sys/time.h
+-
+cmath
+-
+windows.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/windows.h
+random
+-
+
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+iostream
+-
+
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/main.cpp
+zconf.h
+-
+common.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+pthread.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.cpp
+cmath
+-
+pthread.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/pthread.h
+vector
+-
+common.h
+C:/Users/chris/CLionProjects/Particle-Sim-Pthreads/src/common.h
+
